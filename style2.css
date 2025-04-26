@@ -1,0 +1,207 @@
+
+.sec1{
+    background-color: WHITE;
+}
+.inbox0,.inbox{
+    color: black;
+    padding: 5px 5px;
+    height: auto;
+    margin-top:30px; 
+    margin-bottom: 50px;
+    
+}
+button.b1{
+    color: white;
+    background-color: aqua;
+    border-radius: 50px;
+    border: 2px solid aqua;
+    text-align: center;
+    padding: 4px 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:30px; 
+    margin-bottom: 50px;
+
+
+      
+}
+.sec2{
+    background-color: red;
+}
+.inbox2{
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+}
+.sec3{
+    background-image: url(zola-full.jpg);
+    height: auto;
+    background-size: cover;
+}
+.inbox3{
+    
+    padding: 40px 80px  ;
+    margin: 70px 100px;
+
+}
+h1{
+    text-transform: capitalize;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+} 
+button.b2{
+    color: white;
+    background-color: aqua;
+    border-radius: 50PX;
+    border: 2px solid aqua;
+    padding: 10px 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.inbox4{
+    text-align: center;
+    color: black;
+    padding: 15px 10px;
+    margin: 15px 10px;
+}
+.sec5{
+    background-color: rgb(17, 71, 180);
+    
+   
+}
+
+.inbox5{
+    color: white;
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+    
+    
+}
+.d1{
+    height: 2px;
+    background-color: red;
+    width: 20%;
+    margin: auto;
+}
+.inbox6{
+    height: 200px;
+}
+.margin-x{
+    margin: 0px 50px;
+
+}
+.inbox7{
+    text-align: center;
+
+}
+button.b3{
+    color: white;
+    background-color: aqua;
+    border-radius: 50PX;
+    border: 5px solid aqua;
+    padding: 10px 25px;
+    margin: 25px 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+.inbox8{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.inbox9{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;;
+}
+.bi-star-fill{
+    color: gold;
+}
+.sec6{
+
+   background-color: rgba(243, 212, 196, 0.987);
+    height: auto;
+    margin: 0PX;
+
+}
+.inbox10{
+    background-size: cover;
+    height: auto;
+   
+}
+.inbox11{
+    margin:120px; 
+    padding: 100px 60px;
+   
+}
+button.b4{
+    color: white;
+    background-color: aqua;
+    border-radius: 30PX;
+    border: 5px solid aqua;
+    padding: 10px 30px;
+    /* padding: 10px 45px; */
+    /* margin: 25px 35px; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+.inbox12{
+    text-align: center;
+    padding: 25px 20px;
+    margin-top: 100px ;
+
+}
+.inbox13{
+    
+    padding: 0px 20px;
+    margin: 0px 50px;
+}
+.sec7{
+    height: 350px;
+    background-color: rgb(90, 151, 225);
+}
+.inbox15{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 50px;
+    margin: 50px 50px;
+    color: white;
+}
+button.b5{
+    color: white;
+    background-color: aqua;
+    border-radius: 30PX;
+    border: 2px solid aqua;
+    /* padding: 10px 65px; */
+    padding: 10px 30px;
+    margin: 25px 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, s
+}
+@media (max-width: 460px){
+    button.b5{
+        padding: 5px 10px;
+    }
+
+}
+    
+
+.sec8{
+    height: 200px;
+
+}
+.inbox16{
+    margin: 15px 10px;
+    padding: 1px 15px;
+
+}
+p.p1{
+    font-size: 13px;
+    text-align: center;
+}
+span.sp1{
+    text-decoration:underline;
+    color: red;
+}
+
